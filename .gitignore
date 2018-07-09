@@ -18,6 +18,8 @@ notebooks/*.pkl
 !.vscode/launch.json
 !.vscode/extensions.json
 
+.idea
+
 # General
 .DS_Store
 .AppleDouble
